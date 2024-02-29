@@ -1,1 +1,49 @@
-/* Your Code Goes Here */
+h1 {
+    padding: 20px;
+  text-align: center;
+  font-size: 30px;
+  background: #69585F;
+  color: white;
+  font-variant-caps: small-caps;
+  border:1px solid;
+  border-radius: 30px;
+}
+
+h2 {
+    font-variant-caps: small-caps;
+}
+
+img {
+    float:left;
+    border: 5px solid;color: grey;
+    margin: 5px;
+    border-radius: 1px;
+    width: 180px;
+}
+
+body {
+    width:750px
+}
+
+a {
+    text-decoration: none;
+    color: #69585F; 
+}
+
+article p {
+    width:left;
+    margin:10px
+}
+
+article {
+    background-color: #FCDDBC;
+    font-size: 20px;
+
+}
+article ul {
+    list-style-type: circle; 
+}
+footer {
+    border-top: solid 2px;
+    padding: 15px;
+}
